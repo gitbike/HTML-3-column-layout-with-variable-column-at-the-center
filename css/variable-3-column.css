@@ -17,3 +17,13 @@
 .aside1 {
   float: left;
 }
+
+.two-col {
+  float: left;
+  width: 100%;
+  margin-right: -200px;
+}
+
+.aside2 {
+  float: right;
+}
