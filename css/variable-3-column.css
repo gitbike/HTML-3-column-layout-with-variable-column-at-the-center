@@ -1,5 +1,15 @@
 @charset "UTF-8";
 
+.contents-wrapper {
+  float: right;
+  width: 100%;
+  margin-left: -200px;
+}
+
 .aside {
   width: 200px;
+}
+
+.aside1 {
+  float: left;
 }
