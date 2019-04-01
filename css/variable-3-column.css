@@ -6,6 +6,10 @@
   margin-left: -200px;
 }
 
+.main {
+  margin-left: 200px;
+}
+
 .aside {
   width: 200px;
 }
